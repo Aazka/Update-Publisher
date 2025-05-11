@@ -1,5 +1,5 @@
 🧠 Optimized Update System with Observer Pattern
-🚨 Problem: Inefficient Update Checks /n
+🚨 Problem: Inefficient Update Checks \n
 In large-scale Unity projects, performance bottlenecks often arise due to how Update() is handled in every component. By default, Unity checks multiple conditions each frame (as shown in the image below), including:
 1)Null checks
 2)Destruction checks
